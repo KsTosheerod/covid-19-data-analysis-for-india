@@ -1,6 +1,6 @@
 # covid-19-data-analysis-for-india
 
-                                      Object Oriented Design
+                                     <h1> Object Oriented Design</h1>
                                       Project Topic Proposal
 
 
